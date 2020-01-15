@@ -6,4 +6,4 @@ link to a powerpoint describing the game, instructions, and inspiration that was
 
 # Acknowledgements 
 * graphics were taken from Google Images
-* used Arcade Academy for help with Arcade and the PhysicsEngine 
+* used Arcade Academy for help with Arcade through their examples
